@@ -6,7 +6,7 @@
     background-color: yellow;
     color:black;
 }
-.adjust-font{
+.button1, .button2{
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
